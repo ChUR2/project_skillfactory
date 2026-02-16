@@ -1,4 +1,4 @@
-<img width="1442" height="821" alt="Снимок экрана 2026-02-16 в 19 42 43" src="https://github.com/user-attachments/assets/0c47b5c5-b913-4eb5-b6a0-b65e7f168ed3" /><img width="1442" height="821" alt="Снимок экрана 2026-02-16 в 19 42 43" src="https://github.com/user-attachments/assets/8fcad57b-6855-4abb-b1d0-f2e3282c9db8" /># 🌍 Эко-помощник по сортировке мусора
+# 🌍 Эко-помощник по сортировке мусора
 
 ![Демо](<img width="1442" height="821" alt="Снимок экрана 2026-02-16 в 19 42 43" src="https://github.com/user-attachments/assets/8395ac9a-eb95-4c00-8a12-235965330e68" />)
 
