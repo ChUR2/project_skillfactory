@@ -6,7 +6,7 @@
 
 ##  Как использовать в Colab
 Все супер просто:
-1. Открой [ноутбук в Colab]([https://colab.research.google.com/github/твой-юзернейм/eco-waste-classifier/blob/main/название_файла.ipynb](https://colab.research.google.com/drive/1oNGS_ev2eS8jkNueKzBJIfUx0IFwxK7A?usp=sharing))
+1. Открой [ноутбук в Colab] (https://colab.research.google.com/drive/1oNGS_ev2eS8jkNueKzBJIfUx0IFwxK7A?usp=sharing)
 2. Запусти первую ячейку с установкой библиотек!
 3. Загрузи фото мусора , вставь ссылку или загрузи фото через веб-камеру! (кнопки взину сайта помогут чтобы не искать картинку и ссылку)
 4. Получи результат с рекомендацией!!!
